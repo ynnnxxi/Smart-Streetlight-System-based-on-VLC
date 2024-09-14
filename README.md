@@ -4,4 +4,4 @@ In this project, we propose a visible light communication(VLC) based smart stree
 
 대한전자공학회 2023년도 추계학술대회 참가 논문
 
-https://conf.theieie.org/2024a/
+https://conf.theieie.org/2024f/
